@@ -1,3 +1,3 @@
 # Yoonseo Kim
 
-* [My Resume](https://github.com/yk3149/resume)
+* [Assignment 1: Git, github, files, etc.](https://github.com/yk3149/resume)
