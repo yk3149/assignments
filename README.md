@@ -6,3 +6,4 @@
       - [Part 1: Working with JSON Data](./Assn3Pt1.ipynb) <br>
       - [Part 2: Downloading Files with Python](./Assn3Pt2.ipynb) <br>
       - [Part 3: Understanding NetCDF Metadata](./Assn3Pt3.ipynb)
+* [Assignment 4: Basic Python](https://github.com/yk3149/assignments/blob/main/Assn4.ipynb)
