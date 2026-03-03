@@ -7,3 +7,5 @@
       - [Part 2: Downloading Files with Python](./Assn3Pt2.ipynb) <br>
       - [Part 3: Understanding NetCDF Metadata](./Assn3Pt3.ipynb)
 * [Assignment 4: Basic Python](https://github.com/yk3149/assignments/blob/main/Assn4.ipynb)
+* [Assignment 5: Numpy and Matplotlib](https://github.com/yk3149/assignments/blob/main/Assn5.ipynb)
+
