@@ -8,5 +8,5 @@
       - [Part 3: Understanding NetCDF Metadata](./Assn3Pt3.ipynb)
 * [Assignment 4: Basic Python](https://github.com/yk3149/assignments/blob/main/Assn4.ipynb)
 * [Assignment 5: Numpy and Matplotlib](https://github.com/yk3149/assignments/blob/main/Assn5.ipynb)
-* [Assignment 6: More matplotlib]()
+* [Assignment 6: More matplotlib](https://github.com/yk3149/assignments/blob/main/Assn6.ipynb)
 
